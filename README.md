@@ -56,7 +56,7 @@ Projects](https://make.wordpress.org/core/handbook/contribute/)
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" /></a><a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40"
         height="40" /> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
